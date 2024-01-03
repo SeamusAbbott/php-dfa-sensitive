@@ -1,7 +1,7 @@
-# php-DFA-filterWord
+#*php-DFA-filterWord
 php实现基于确定有穷自动机算法的铭感词过滤
 
-##  安装&使用流程
+### 安装&使用流程
 ### Download and install Composer:
     curl -sS https://getcomposer.org/installer | php
 > 要检查 Composer 是否正常工作，只需要通过 php 来执行 PHAR
@@ -55,3 +55,4 @@ php实现基于确定有穷自动机算法的铭感词过滤
 
 
 *如果大家有更好的建议，请大家多多指正，O(∩_∩)O谢谢*
+ 
