@@ -1,5 +1,5 @@
 <?php
-/**
+/ *
  * Created by PhpStorm.
  * User: zed
  * Date: 17-11-13
@@ -76,3 +76,4 @@ class BaseTest extends TestCase
         $this->assertEquals('这是一段测试语句，请忽略<mark>赌球网</mark>', $markedContent);
     }
 }
+ 
